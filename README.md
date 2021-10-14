@@ -6,7 +6,7 @@ To start a test server you must first download django onto your computer and mak
 
 A walkthrough of the code and webpages can be found below 👇
 
-[Django Project - Would you rather](http://youtube.link.goes.here)
+[Django Project - Would you rather](https://youtu.be/6M3vtjfVC7o)
 
 # Web Pages
 
